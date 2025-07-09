@@ -1,30 +1,28 @@
-[13:29:43] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[13:29:45] [ServerMain/INFO]: Loaded 1373 recipes
-[13:29:45] [ServerMain/INFO]: Loaded 1484 advancements
-[13:29:46] [Server thread/INFO]: Starting minecraft server version 1.21.5
-[13:29:46] [Server thread/INFO]: Loading properties
-[13:29:46] [Server thread/INFO]: Default game type: SURVIVAL
-[13:29:46] [Server thread/INFO]: Generating keypair
-[13:29:46] [Server thread/INFO]: Starting Minecraft server on *:25565
-[13:29:46] [Server thread/INFO]: Using epoll channel type
-[13:29:46] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[13:29:46] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[13:29:46] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[13:29:46] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[13:29:46] [Server thread/INFO]: Preparing level "world"
-[13:29:46] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[13:29:50] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[13:29:50] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[13:29:50] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[13:29:50] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[13:29:50] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[13:29:50] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[13:29:50] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[13:29:50] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[13:29:50] [Worker-Main-3/INFO]: Preparing spawn area: 40%
-[13:29:50] [Server thread/INFO]: Time elapsed: 4045 ms
-[13:29:50] [Server thread/INFO]: Done (4.435s)! For help, type "help"
-[13:30:50] [Server thread/INFO]: Server empty for 60 seconds, pausing
-[13:33:03] [Server thread/INFO]: frank21kchero[/127.47.70.255:49979] logged in with entity id 4 at (166.29737954267875, 71.0, 1240.5700604086455)
-[13:33:03] [Server thread/INFO]: frank21kchero joined the game
-[13:35:28] [Server thread/INFO]: frank21kchero has made the advancement [A Seedy Place]
+[14:51:49] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[14:51:50] [ServerMain/INFO]: Loaded 1373 recipes
+[14:51:50] [ServerMain/INFO]: Loaded 1484 advancements
+[14:51:50] [Server thread/INFO]: Starting minecraft server version 1.21.5
+[14:51:50] [Server thread/INFO]: Loading properties
+[14:51:50] [Server thread/INFO]: Default game type: SURVIVAL
+[14:51:50] [Server thread/INFO]: Generating keypair
+[14:51:51] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:51:51] [Server thread/INFO]: Using epoll channel type
+[14:51:51] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14:51:51] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[14:51:51] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[14:51:51] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[14:51:51] [Server thread/INFO]: Preparing level "world"
+[14:51:51] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:51:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:51:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:51:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:51:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:51:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:51:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:51:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:51:55] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[14:51:55] [Server thread/INFO]: Time elapsed: 3953 ms
+[14:51:55] [Server thread/INFO]: Done (4.319s)! For help, type "help"
+[14:52:55] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[14:53:07] [Server thread/INFO]: frank21kchero[/127.47.70.255:59331] logged in with entity id 4 at (165.87410356899863, 71.0, 1239.1334078759216)
+[14:53:07] [Server thread/INFO]: frank21kchero joined the game
