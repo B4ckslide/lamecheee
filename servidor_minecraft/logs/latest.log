@@ -1,59 +1,30 @@
-[04:27:48] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[04:27:49] [ServerMain/INFO]: No existing world data, creating new world
-[04:27:50] [ServerMain/INFO]: Loaded 1373 recipes
-[04:27:50] [ServerMain/INFO]: Loaded 1484 advancements
-[04:27:50] [Server thread/INFO]: Starting minecraft server version 1.21.5
-[04:27:50] [Server thread/INFO]: Loading properties
-[04:27:50] [Server thread/INFO]: Default game type: SURVIVAL
-[04:27:50] [Server thread/INFO]: Generating keypair
-[04:27:50] [Server thread/INFO]: Starting Minecraft server on *:25565
-[04:27:50] [Server thread/INFO]: Using epoll channel type
-[04:27:50] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[04:27:50] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[04:27:50] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[04:27:50] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[04:27:50] [Server thread/INFO]: Preparing level "world"
-[04:27:57] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[04:27:57] [Worker-Main-3/INFO]: Preparing spawn area: 2%
-[04:27:58] [Worker-Main-1/INFO]: Preparing spawn area: 2%
-[04:27:58] [Worker-Main-2/INFO]: Preparing spawn area: 2%
-[04:27:59] [Worker-Main-3/INFO]: Preparing spawn area: 2%
-[04:27:59] [Worker-Main-3/INFO]: Preparing spawn area: 18%
-[04:28:00] [Worker-Main-1/INFO]: Preparing spawn area: 18%
-[04:28:00] [Worker-Main-3/INFO]: Preparing spawn area: 18%
-[04:28:01] [Worker-Main-2/INFO]: Preparing spawn area: 51%
-[04:28:01] [Worker-Main-1/INFO]: Preparing spawn area: 51%
-[04:28:02] [Worker-Main-1/INFO]: Preparing spawn area: 51%
-[04:28:02] [Server thread/INFO]: Time elapsed: 4675 ms
-[04:28:02] [Server thread/INFO]: Done (11.835s)! For help, type "help"
-[04:28:38] [Server thread/INFO]: frank21kchero[/127.47.70.255:42653] logged in with entity id 2 at (58.5, 70.0, -91.5)
-[04:28:38] [Server thread/INFO]: frank21kchero joined the game
-[04:30:44] [Server thread/INFO]: frank21kchero has made the advancement [Stone Age]
-[04:31:12] [Server thread/INFO]: frank21kchero has made the advancement [Getting an Upgrade]
-[04:32:16] [Server thread/INFO]: skullz111[/127.62.5.236:57915] logged in with entity id 906 at (62.5, 70.0, -104.5)
-[04:32:16] [Server thread/INFO]: skullz111 joined the game
-[04:32:52] [Server thread/INFO]: skullz111 has made the advancement [Stone Age]
-[04:33:11] [Server thread/INFO]: skullz111 has made the advancement [Getting an Upgrade]
-[04:37:23] [Server thread/INFO]: frank21kchero drowned
-[04:37:23] [Server thread/INFO]: skullz111 drowned
-[04:37:57] [Server thread/INFO]: skullz111 has made the advancement [Monster Hunter]
-[04:38:42] [Server thread/INFO]: skullz111 drowned
-[04:41:07] [Server thread/INFO]: frank21kchero has made the advancement [Acquire Hardware]
-[04:41:31] [Server thread/INFO]: frank21kchero has made the advancement [Isn't It Iron Pick]
-[04:42:48] [Server thread/INFO]: skullz111 drowned
-[04:46:45] [Server thread/INFO]: skullz111 was slain by Zombie
-[04:50:36] [Server thread/INFO]: skullz111 has made the advancement [Isn't It Iron Pick]
-[04:56:56] [Server thread/INFO]: skullz111 lost connection: Disconnected
-[04:56:56] [Server thread/INFO]: skullz111 left the game
-[05:00:58] [Server thread/INFO]: frank21kchero has made the advancement [Monster Hunter]
-[05:07:12] [Server thread/INFO]: frank21kchero has made the advancement [Hot Stuff]
-[05:16:32] [Server thread/INFO]: frank21kchero has made the advancement [What a Deal!]
-[05:22:23] [Server thread/INFO]: frank21kchero has made the advancement [Sweet Dreams]
-[05:47:26] [Server thread/INFO]: Villager cru['Fletcher'/15042, l='ServerLevel[world]', x=-862.70, y=61.00, z=-422.70] died, message: 'Fletcher was slain by frank21kchero'
-[05:54:34] [Server thread/INFO]: frank21kchero has made the advancement [Best Friends Forever]
-[05:57:58] [Server thread/INFO]: frank21kchero has made the advancement [Ice Bucket Challenge]
-[06:01:46] [Server thread/WARN]: Mismatch in destroy block pos: iw{x=-1103, y=69, z=86} iw{x=-1102, y=70, z=86}
-[06:09:46] [Server thread/INFO]: frank21kchero has made the advancement [Diamonds!]
-[06:49:14] [Server thread/INFO]: frank21kchero lost connection: Disconnected
-[06:49:14] [Server thread/INFO]: frank21kchero left the game
-[06:50:14] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[13:29:43] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[13:29:45] [ServerMain/INFO]: Loaded 1373 recipes
+[13:29:45] [ServerMain/INFO]: Loaded 1484 advancements
+[13:29:46] [Server thread/INFO]: Starting minecraft server version 1.21.5
+[13:29:46] [Server thread/INFO]: Loading properties
+[13:29:46] [Server thread/INFO]: Default game type: SURVIVAL
+[13:29:46] [Server thread/INFO]: Generating keypair
+[13:29:46] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:29:46] [Server thread/INFO]: Using epoll channel type
+[13:29:46] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[13:29:46] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[13:29:46] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[13:29:46] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[13:29:46] [Server thread/INFO]: Preparing level "world"
+[13:29:46] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:29:50] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[13:29:50] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[13:29:50] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[13:29:50] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[13:29:50] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[13:29:50] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[13:29:50] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[13:29:50] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[13:29:50] [Worker-Main-3/INFO]: Preparing spawn area: 40%
+[13:29:50] [Server thread/INFO]: Time elapsed: 4045 ms
+[13:29:50] [Server thread/INFO]: Done (4.435s)! For help, type "help"
+[13:30:50] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[13:33:03] [Server thread/INFO]: frank21kchero[/127.47.70.255:49979] logged in with entity id 4 at (166.29737954267875, 71.0, 1240.5700604086455)
+[13:33:03] [Server thread/INFO]: frank21kchero joined the game
+[13:35:28] [Server thread/INFO]: frank21kchero has made the advancement [A Seedy Place]
