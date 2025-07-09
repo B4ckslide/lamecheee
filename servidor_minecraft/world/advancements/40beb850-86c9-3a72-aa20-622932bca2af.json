@@ -437,6 +437,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2025-07-09 05:35:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2025-07-09 04:29:49 +0000"
@@ -653,6 +659,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/suspicious_stew_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-07-09 05:36:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-07-09 05:22:23 +0000"
@@ -711,7 +723,8 @@
     "criteria": {
       "minecraft:skeleton": "2025-07-09 05:01:04 +0000",
       "minecraft:spider": "2025-07-09 05:00:58 +0000",
-      "minecraft:zombie": "2025-07-09 05:06:42 +0000"
+      "minecraft:zombie": "2025-07-09 05:06:42 +0000",
+      "minecraft:creeper": "2025-07-09 05:35:30 +0000"
     },
     "done": false
   },
@@ -748,6 +761,12 @@
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2025-07-09 04:41:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-07-09 05:36:37 +0000"
     },
     "done": true
   },
