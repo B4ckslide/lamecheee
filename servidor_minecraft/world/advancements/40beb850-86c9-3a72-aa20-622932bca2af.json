@@ -22,6 +22,7 @@
       "minecraft:ocean": "2025-07-09 06:34:49 +0000",
       "minecraft:jungle": "2025-07-09 04:59:18 +0000",
       "minecraft:birch_forest": "2025-07-09 06:32:52 +0000",
+      "minecraft:windswept_hills": "2025-07-09 15:54:54 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-07-09 06:38:00 +0000",
       "minecraft:savanna": "2025-07-09 04:28:39 +0000",
       "minecraft:bamboo_jungle": "2025-07-09 04:58:58 +0000",
@@ -2494,6 +2495,18 @@
   "minecraft:recipes/misc/flower_banner_pattern": {
     "criteria": {
       "has_oxeye_daisy": "2025-07-09 15:30:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald_from_smelting_emerald_ore": {
+    "criteria": {
+      "has_emerald_ore": "2025-07-09 15:55:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald_from_blasting_emerald_ore": {
+    "criteria": {
+      "has_emerald_ore": "2025-07-09 15:55:36 +0000"
     },
     "done": true
   },
